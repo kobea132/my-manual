@@ -1,2 +1,3 @@
 ##價格一覧表
-![Alt text](./img/pricing.png)
+>2016年12月12日
+![Alt 價格表](./img/pricing.png)
